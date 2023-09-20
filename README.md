@@ -15,7 +15,7 @@ In my current profile, you will be able to find 3 projects:
 
 **Gas Games Online Website**
 - A customised online website that I created for one of the local Board Game shop here in Melbourne, Australia!
-- This project helped me practice my knowledge in web developement using JavaScript, jQuery, HTML/CSS, PHP and Google DevTools ;-)
+- This project helped me practice my knowledge in web developement using JavaScript, jQuery, HTML/CSS, and Google DevTools ;-)
 
 **Connect 4**
 - A programmed version of the infamous game Connect 4!
